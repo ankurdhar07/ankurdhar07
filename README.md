@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**ankurdhar07/ankurdhar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Ankur! 👋
 
-Here are some ideas to get you started:
+### ECE Diploma Student | Aspiring Semiconductor Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing a Diploma in Electronics
+and Communication Engineering.
+
+I'm passionate about programming, electronics,
+computer hardware and semiconductor technology.
+
+---
+
+### 🚀 Currently Learning
+
+- C Programming
+- Python Fundamentals
+- Digital Electronics
+- Git & GitHub
+
+### 💡 Areas of Interest
+
+- VLSI Design
+- Embedded Systems
+- Computer Architecture
+- Semiconductor Technology
+
+### 🛠️ Technologies & Tools
+
+- C
+- Python
+- Git
+- GitHub
+- Visual Studio Code
+
+### 📂 Featured Projects
+
+- ATM Banking System — C
+- Python Practice Projects
+- C Programming Projects
+
+### 🎯 My Goal
+
+To strengthen my engineering fundamentals
+and build a career in the semiconductor industry.
+
+---
+
+*Learning. Building. Improving. Every day.*
